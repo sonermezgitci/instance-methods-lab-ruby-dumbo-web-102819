@@ -5,4 +5,5 @@ def talk_in_person
 end 
 
 def walk_in_person
-  puts 
+  puts "The Person is walking"
+end
