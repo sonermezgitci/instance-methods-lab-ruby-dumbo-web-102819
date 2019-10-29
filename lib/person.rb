@@ -1,5 +1,5 @@
 class Person
-
+end
 def talk_in_person
   puts "Hello World"
 end 
