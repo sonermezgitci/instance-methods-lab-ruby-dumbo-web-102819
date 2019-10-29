@@ -2,4 +2,5 @@ Class Dog
 end 
 
 def bark
-  puts "woof"
+  puts "Woof!"
+end 
